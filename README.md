@@ -14,7 +14,8 @@ Clone this repository to:
   - Linux - /home/"User Name"/.config/nvim
   - Windows - .../AppData/Local/nvim/
   
- Start Nvim and press enter to suppress the error messages
+ Start Nvim and press enter to suppress the error messages.
+  
  Install plugins using Packer:
  ```
   :lua require("pluginList")
